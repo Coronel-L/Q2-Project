@@ -1,0 +1,50 @@
+body {
+	background-image: url(https://res.klook.com/image/upload/fl_lossy.progressive/q_auto/c_fill,w_750/w_1200/blogen/2018/04/image9.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.logo {
+	background-color: white;
+	text-align: center;
+}
+
+.header {
+	background-color: #84aff5;
+	text-align: center;
+	font-family: Bebas Neue;
+	font-size: 25px;
+	padding: 8px;
+	margin: 5px;
+}
+
+.intro {
+	background-color: lightseagreen;
+	text-align: center;
+	padding: 5px;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.place {
+	background-color: #91bbff;
+	width: 350px;
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	border: 5px solid darkblue;
+	border-radius: 20px;
+}
+
+.footer {
+	background-color: #84aff5;
+	text-align: center;
+	font-family: Bebas Neue;
+	font-size: 20px;
+	padding: 5px;
+	margin: 5px;
+}
